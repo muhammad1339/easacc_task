@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "126446549638",
+    "project_id": "task-542c1",
+    "storage_bucket": "task-542c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126446549638:android:672f0d1f0879e3bb1def07",
+        "android_client_info": {
+          "package_name": "com.ma.easacc_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126446549638-9ipb060s6g4cbdg06p89al7h9jvu0i6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ma.easacc_task",
+            "certificate_hash": "f32b88dfdb8eca3341baf4e14ad77974369c47db"
+          }
+        },
+        {
+          "client_id": "126446549638-9imk62iqmm8c2jvnb1akm3nfg1pn0r2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAicNhboMc8gFpFxBAOIZAm-Nl5KQBqSYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126446549638-9imk62iqmm8c2jvnb1akm3nfg1pn0r2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126446549638-gk31gvtccubvoc8o7etncfplhudtul4i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ma.easaccTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
